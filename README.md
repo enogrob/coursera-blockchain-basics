@@ -9,16 +9,18 @@ Solution Integrator Experienced - Certified by Ericsson
 
 **About**
 
-Learn everything you need to about the subject of this `Coursera` project.
+* Explain the three fundamental characteristics that define a Blockchain using Bitcoin Blockchain.
+* Discuss the important features of Ethereum Blockchain that is used as reference implementation in many newer Blockchains.
+* Outline methods for realizing trust in the Blockchain.
 
-[Homepage](https://coursera.com)
+[Homepage](https://www.coursera.org/learn/blockchain-basics)
 
 ## Topics
 ```
 Week1
 Blockchain
-[ ] Practitioner's Perspective: John Wolpert, ConsenSys 4 min
-[ ] Acknowledgements: Blockchain 5 min
+[x] Practitioner's Perspective: John Wolpert, ConsenSys 4 min
+[x] Acknowledgements: Blockchain 5 min
 Bitcoin & Blockchain
 [ ] Blockchain Defined: Bitcoin & Blockchain 8 min
 [ ] (OPTIONAL) Resources: Bitcoin & Blockchain 45 min
