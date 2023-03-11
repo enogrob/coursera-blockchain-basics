@@ -22,9 +22,9 @@ Blockchain
 [x] Practitioner's Perspective: John Wolpert, ConsenSys 4 min
 [x] Acknowledgements: Blockchain 5 min
 Bitcoin & Blockchain
-[ ] Blockchain Defined: Bitcoin & Blockchain 8 min
-[ ] (OPTIONAL) Resources: Bitcoin & Blockchain 45 min
-[ ] Self-Check 4 perguntas
+[x] Blockchain Defined: Bitcoin & Blockchain 8 min
+[x] (OPTIONAL) Resources: Bitcoin & Blockchain 45 min
+[x] Self-Check 4 perguntas
 Blockchain Structure
 [ ] Blockchain Structure 5 min
 [ ] (OPTIONAL) Resources: Blockchain Structure 5 min
