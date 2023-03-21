@@ -26,9 +26,9 @@ Bitcoin & Blockchain
 [x] (OPTIONAL) Resources: Bitcoin & Blockchain 45 min
 [x] Self-Check 4 perguntas
 Blockchain Structure
-[ ] Blockchain Structure 5 min
-[ ] (OPTIONAL) Resources: Blockchain Structure 5 min
-[ ] Self-Check 4 perguntas
+[x] Blockchain Structure 5 min
+[x] (OPTIONAL) Resources: Blockchain Structure 5 min
+[x] Self-Check 4 perguntas
 Basic Operations
 [ ] Basic Operations Vídeo•. Duration: 4 minutes
 [ ] (OPTIONAL) Resources: Basic Operations Leitura•. Duration: 30 minutes
