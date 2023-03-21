@@ -30,9 +30,9 @@ Blockchain Structure
 [x] (OPTIONAL) Resources: Blockchain Structure 5 min
 [x] Self-Check 4 perguntas
 Basic Operations
-[ ] Basic Operations Vídeo•. Duration: 4 minutes
-[ ] (OPTIONAL) Resources: Basic Operations Leitura•. Duration: 30 minutes
-[ ] Self-Check 3 perguntas
+[x] Basic Operations Vídeo•. Duration: 4 minutes
+[x] (OPTIONAL) Resources: Basic Operations Leitura•. Duration: 30 minutes
+[x] Self-Check 3 perguntas
 Beyond Bitcoin
 [ ] Beyond Bitcoin Vídeo•. Duration: 3 minutes
 [ ] (OPTIONAL) Resources: Beyond Bitcoin Leitura•. Duration: 1 hour
