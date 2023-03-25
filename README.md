@@ -38,10 +38,16 @@ Beyond Bitcoin
 [x] (OPTIONAL) Resources: Beyond Bitcoin Leitura•. Duration: 1 hour
 [x] Self-Check Teste para praticar•1 perguntas
 Week1 Evaluation: Blockchain Defined
-[ ] REQUIRED Quiz Resources and Directions: Blockchain Defined - Week 1 Leitura•. Duration: 10 minutes
-[ ] Blockchain Defined - Week 1
+[x] REQUIRED Quiz Resources and Directions: Blockchain Defined - Week 1 Leitura•. Duration: 10 minutes
+[x] Blockchain Defined - Week 1
     Vencimento, Mar 12, 11:59 PM -03 Teste•9 perguntas •Nota: --
 Week2
+[ ] Smart Contracts
+[ ] Vídeo: Ethereum Blockchain: Smart Contracts 5 min
+[ ] Vídeo: Practitioner's Perspective: The Enterprise 2 min
+[ ] Leitura: Leitura(OPTIONAL) Resources: Smart Contracts 30 min
+[ ] Teste para praticar: Self-Check 2 perguntas
+
 Week3
 Week4
 ```
