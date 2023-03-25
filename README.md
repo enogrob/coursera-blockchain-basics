@@ -34,9 +34,9 @@ Basic Operations
 [x] (OPTIONAL) Resources: Basic Operations Leitura•. Duration: 30 minutes
 [x] Self-Check 3 perguntas
 Beyond Bitcoin
-[ ] Beyond Bitcoin Vídeo•. Duration: 3 minutes
-[ ] (OPTIONAL) Resources: Beyond Bitcoin Leitura•. Duration: 1 hour
-[ ] Self-Check Teste para praticar•1 perguntas
+[x] Beyond Bitcoin Vídeo•. Duration: 3 minutes
+[x] (OPTIONAL) Resources: Beyond Bitcoin Leitura•. Duration: 1 hour
+[x] Self-Check Teste para praticar•1 perguntas
 Week1 Evaluation: Blockchain Defined
 [ ] REQUIRED Quiz Resources and Directions: Blockchain Defined - Week 1 Leitura•. Duration: 10 minutes
 [ ] Blockchain Defined - Week 1
